@@ -1,3 +1,4 @@
 <?php
-
-echo 'aaa'
+<?php
+echo 'aaaccc'
+echo 'cccc'
